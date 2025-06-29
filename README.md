@@ -23,7 +23,9 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![preview.png](./preview.png)
+![screenshot_1.png](./screenshot_1.png)
+![screenshot_2.png](./screenshot_2.png)
+![screenshot_3.png](./screenshot_3.png)
 
 ### Links
 
